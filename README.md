@@ -22,7 +22,7 @@ MongoDB (installed and running)
 Installation
 Clone the repository:
 
-git clone https://github.com/umeshyadav7988/FileX.git
+git clone https://github.com/vanshjakhar7988/FileX.git
 Navigate to the project directory: cd FileX
 
 Install the backend dependencies: cd server npm install
